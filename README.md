@@ -1,5 +1,5 @@
 # Data-Science-Projects
-Repository for all data science projects
+Repository for data science projects
 
 * EDA on Superstore dataset
 * Ford Car Price Prediction Model
