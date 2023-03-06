@@ -1,2 +1,0 @@
-For detailed description and explanation of the project you can refer to my medium article by following this link:
-https://medium.com/@keziyamthomas/predicting-price-using-simple-linear-regression-in-python-85ac83d51b54
